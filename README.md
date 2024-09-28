@@ -1,6 +1,6 @@
 ## Welcome to the EXTRAVAGANT WORLD of my GitHub profile
 
-<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I mostly dwell within C language for now, but I have been acquainted to R, Python, and C++. My passion subject is cybsec and I aim to deepen my knowledge and work in this area. At this moment I am a student in Hive Helsinki, a school with peer-to-peer learning system.</p>
+<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I mostly dwell within C language for now, but I have been acquainted to R, Python, and C++. My passion subject is cybsec and I aim to deepen my knowledge and work in this area. At this moment I am a student in Hive Helsinki, a school with peer-to-peer learning system. If you are interested, here's my [LinkedIn](https://www.linkedin.com/in/fdessoy)</p>
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
@@ -33,8 +33,3 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FjjDessoyCaraballo&theme=transparent&show_icons=true&hide_rank=true&hide_title=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FjjDessoyCaraballo&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Got interested? Here's my Linkedin
-
-[LinkedIn](https://www.linkedin.com/in/fdessoy)
