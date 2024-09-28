@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
+
 ### Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FjjDessoyCaraballo&theme=transparent&show_icons=true&hide_rank=true&hide_title=true)
