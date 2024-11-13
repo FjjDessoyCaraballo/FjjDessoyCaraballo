@@ -6,6 +6,7 @@
 
 ### Projects I am proud of
 - [Minishell](https://github.com/FjjDessoyCaraballo/minishell): a group project aimed to make a small-scale replication of bash.
+- [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d): a game focused on practicing ray-casting to replicate the game Wolf3d.
 - [Philosophers](https://github.com/Ginger-Leo/Philosophers): a multithread program that goes into Dijkstra dining philosophers problem.
 - [Makefile-tutorial](https://github.com/FjjDessoyCaraballo/makefile-tutorial): A "Makefile for dummies" tutorial.
 - [Libft](https://github.com/FjjDessoyCaraballo/libft): C-library functions made from scratch for general use.
