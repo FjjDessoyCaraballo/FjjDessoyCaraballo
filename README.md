@@ -10,7 +10,7 @@ My passion subject is cybersec and writing documentation. At this moment I am a 
 - [Minishell](https://github.com/FjjDessoyCaraballo/minishell): a group project aimed to make a small-scale replication of bash.
 - [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d): a game focused on practicing ray-casting to replicate the game Wolf3d.
 - [Philosophers](https://github.com/Ginger-Leo/Philosophers): a multithread program that goes into Dijkstra dining philosophers problem.
-- [Makefile-tutorial](https://github.com/FjjDessoyCaraballo/makefile-tutorial): A "Makefile for dummies" tutorial.
+- [ft_irc](https://github.com/ArminKuburas/ft_irc): An IRC server client compliant.
 - [Libft](https://github.com/FjjDessoyCaraballo/libft): C-library functions made from scratch for general use.
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
