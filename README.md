@@ -9,9 +9,9 @@ My passion subject is cybersec and writing documentation. At this moment I am a 
 ### Projects I am proud of
 - [Minishell](https://github.com/FjjDessoyCaraballo/minishell): a group project aimed to make a small-scale replication of bash.
 - [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d): a game focused on practicing ray-casting to replicate the game Wolf3d.
-- [Philosophers](https://github.com/Ginger-Leo/Philosophers): a multithread program that goes into Dijkstra dining philosophers problem.
 - [ft_irc](https://github.com/ArminKuburas/ft_irc): An IRC server client compliant.
-- [Libft](https://github.com/FjjDessoyCaraballo/libft): C-library functions made from scratch for general use.
+- [Delivery-Oder-Price-Calculator](https://github.com/FjjDessoyCaraballo/Delivery-Order-Price-Calculator): an endpoint done in Python for calculating deliveries.
+- [brute_force](https://github.com/FjjDessoyCaraballo/brute_force): a small educational project about password strength with data visualization (ongoing).
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
