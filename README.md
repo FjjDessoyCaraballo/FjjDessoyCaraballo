@@ -14,7 +14,7 @@ My passion subject is cybersec and writing documentation. At this moment I am a 
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
-<h2 align="left">My tools</h2>
+<h2 align="left">My tools and languages</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
