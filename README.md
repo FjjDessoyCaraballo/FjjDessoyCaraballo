@@ -10,7 +10,7 @@ My passion subject is cybersec and writing documentation. At this moment I am a 
 - [Minishell](https://github.com/FjjDessoyCaraballo/minishell): a group project aimed to make a small-scale replication of bash.
 - [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d): a game focused on practicing ray-casting to replicate the game Wolf3d.
 - [ft_irc](https://github.com/ArminKuburas/ft_irc): An IRC server client compliant.
-- [brute_force](https://github.com/FjjDessoyCaraballo/brute_force): a small educational project about password strength with data visualization (ongoing).
+- [ft_transcendence](https://github.com/FjjDessoyCaraballo/ft_transcendence): Full stack project for a website to play pong with friends.
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
