@@ -1,6 +1,6 @@
 ## Welcome to the EXTRAVAGANT WORLD of my GitHub profile
 
-<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I mostly dwell within C/C++ language for now, but I have been acquainted to R, and Python. 
+<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://www.linkedin.com/in/fdessoy/) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
 
 My passion subject is cybersec and writing documentation. At this moment I am a student in Hive Helsinki, a school with peer-to-peer learning system. If you are interested, here's my <a href="https://www.linkedin.com/in/fdessoy" style="color: #0a66c2; text-decoration: none;">LinkedIn</a>.</p>
 
