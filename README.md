@@ -1,4 +1,4 @@
-## Welcome to the EXTRAVAGANT WORLD of my GitHub profile
+# Welcome to the EXTRAVAGANT WORLD of my GitHub profile
 
 I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://linkedin.com/in/fdessoy) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
 
@@ -6,7 +6,7 @@ I like cybersecurity and breaking other peoples programs. </p>
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
-### Projects I am proud of
+## Projects I am proud of
 | Project | Description | Size | Language |
 | ------- | ----------- | ---- | -------- |
 | [Webcrawler](https://github.com/FjjDessoyCaraballo/webcrawler) | A webcrawler that retrieves logos after being fed with a simple list in a csv file. | Large | Python |
