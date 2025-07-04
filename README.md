@@ -7,10 +7,13 @@ My passion subject is cybersec and writing documentation. At this moment I am a 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
 ### Projects I am proud of
-- [Minishell](https://github.com/FjjDessoyCaraballo/minishell): a group project aimed to make a small-scale replication of bash.
-- [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d): a game focused on practicing ray-casting to replicate the game Wolf3d.
-- [ft_irc](https://github.com/ArminKuburas/ft_irc): An IRC server client compliant.
-- [ft_transcendence](https://github.com/FjjDessoyCaraballo/ft_transcendence): Full stack project for a website to play pong with friends.
+| Project | Description | Size | Language |
+| ------- | ----------- | ---- | -------- |
+| [Webcrawler](https://github.com/FjjDessoyCaraballo/webcrawler) | A webcrawler that retrieves logos after being fed with a simple list in a csv file. | Large | Python |
+| [Minishell](https://github.com/FjjDessoyCaraballo/minishell) | a group project aimed to make a small-scale replication of bash. | Small | C | 
+| [Cub3D](https://github.com/FjjDessoyCaraballo/cub3d) | a game focused on practicing ray-casting to replicate the game Wolf3d. | Small | C |
+| [ft_irc](https://github.com/ArminKuburas/ft_irc) | An IRC server client compliant. | Large | C++ |
+| [ft_transcendence](https://github.com/FjjDessoyCaraballo/ft_transcendence) | Full stack, containeirized project for a website to play pong with friends. | Large | JavaScript/TypeScript |
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
