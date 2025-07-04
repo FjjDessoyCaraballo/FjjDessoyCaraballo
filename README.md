@@ -1,8 +1,8 @@
 ## Welcome to the EXTRAVAGANT WORLD of my GitHub profile
 
-<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://www.linkedin.com/in/fdessoy/) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
+<p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://linkedin.com/in/fdessoy) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
 
-I like cybersecurity and breaking other peoples programs.
+I like cybersecurity and breaking other peoples programs. </p>
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
