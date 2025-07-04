@@ -38,6 +38,8 @@ I like cybersecurity and breaking other peoples programs. </p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
