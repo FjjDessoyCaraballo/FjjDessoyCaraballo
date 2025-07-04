@@ -2,7 +2,7 @@
 
 <p align="left">I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://www.linkedin.com/in/fdessoy/) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
 
-My passion subject is cybersec and writing documentation. At this moment I am a student in Hive Helsinki, a school with peer-to-peer learning system. If you are interested, here's my <a href="https://www.linkedin.com/in/fdessoy" style="color: #0a66c2; text-decoration: none;">LinkedIn</a>.</p>
+I like cybersecurity and breaking other peoples programs.
 
 <hr style="border: 0; border-top: 1px solid #ff69b4; margin: 20px 0;">
 
