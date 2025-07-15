@@ -13,3 +13,5 @@ Currently I am finishing my studies in [Hive Helsinki](https://www.hive.fi/en/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)](#)
+
+![](https://komarev.com/ghpvc/?username=fjjdessoycaraballo&color=ff69b4&style=plastic)
