@@ -1,6 +1,8 @@
 # Welcome to the EXTRAVAGANT WORLD of my GitHub profile
 
-I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://linkedin.com/in/fdessoy) or my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
+I'm Felipe, a multicultural guy that found his love for doing shenanigans in shell. I'm a full stack developer and currently looking for a job placement. You can view most of my career related stuff in my [LinkedIn](https://linkedin.com/in/fdessoy) or scan the QR code below for my [Linktree](https://linktr.ee/fdessoy), this place will mostly emphasize my projects.
+
+[]()
 
 Currently I am finishing my studies in [Hive Helsinki](https://www.hive.fi/en/) and going forward in my path to be a better full stack developer by doing the [Full Stack Open](https://fullstackopen.com/) course. Adding to my technical expertise, my previous background in politics has given me a roster of soft skills. Previously, I have managed teams of five to ten interns, giving me a solid foundation on team building and management. Moreover, I can communicate effectively, meaning that I can easily integrate to any team that will take me. Together with my technical and soft skills, I can be a powerful asset towards projects that may involve cyber security, cloud engineering, network, or DevSecOps.
 
