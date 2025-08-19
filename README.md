@@ -16,4 +16,5 @@ Currently I am finishing my studies in [Hive Helsinki](https://www.hive.fi/en/) 
 
 ![qrcode](/linktree_qrcode.png)
 
+[![committers.top badge](https://user-badge.committers.top/finland/FjjDessoyCaraballo.svg)](https://user-badge.committers.top/finland/FjjDessoyCaraballo)
 ![](https://komarev.com/ghpvc/?username=fjjdessoycaraballo&color=ff69b4&style=plastic)
